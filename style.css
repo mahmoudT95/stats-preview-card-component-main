@@ -81,3 +81,7 @@ right: 720px;
 .attribution { font-size: 11px; text-align: center; 
 color:white}
 .attribution a { color: hsl(228, 45%, 44%); }
+
+.img1{
+    filter: grayscale(1) sepia(11%) saturate(1535%) hue-rotate(230deg) brightness(83%) contrast(145%);
+}
